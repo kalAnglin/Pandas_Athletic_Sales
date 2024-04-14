@@ -14,6 +14,8 @@ To provide potential clients with a better idea of what the market trends are in
 
 ## Business Advantage [^1]
 
+![Sporting_Goods](images/sporting_goods.webp)
+
 In response customers taking more advantage of price comparison, customer reviews, and digital coupon promotions, modern sporting good retailer have found a lot of benefits to analyzing big data comprised of internal data, competitor pricing, assortment data, social media, and digital coupon campaigns to provide actionable insights that will improve sales.
 
 ## Landscape
